@@ -1,4 +1,4 @@
-#R Code 1.1.1. Congruential generator
+### R Code 1.1.1. Congruential generator
 random <- function(seed,n,M,a,c)
 {
 rand <- rep(NA,n)
